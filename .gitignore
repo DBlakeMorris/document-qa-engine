@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Models directory (if it contains large files)
+models/*
+
+# Database
+DB/*
+
+# Logs
+*.log
+
+# Source documents (if they contain sensitive data)
+SOURCE_DOCUMENTS/*
+
+# macOS
+.DS_Store
