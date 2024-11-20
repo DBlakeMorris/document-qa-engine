@@ -18,6 +18,7 @@ DB/*
 
 # Source documents (if they contain sensitive data)
 SOURCE_DOCUMENTS/*
+!SOURCE_DOCUMENTS/.gitkeep
 
 # macOS
 .DS_Store
