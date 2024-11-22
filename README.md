@@ -8,7 +8,7 @@ A secure and private document question-answering system that runs entirely local
 - 📄 Support for multiple document formats
 - 💡 Natural language querying
 - �� RAG (Retrieval Augmented Generation) implementation
-- 📊 Document embedding and semantic search
+- 📊 Document embedding and semantic search (with Chroma)
 - 🔍 Context-aware responses
 
 ## Project Structure
