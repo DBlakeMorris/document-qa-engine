@@ -7,7 +7,7 @@ A secure and private document question-answering system that runs entirely local
 - 🔒 Fully local processing - no data leaves your machine
 - 📄 Support for multiple document formats
 - 💡 Natural language querying
-- �� RAG (Retrieval Augmented Generation) implementation
+- 🤖 RAG (Retrieval Augmented Generation) implementation
 - 📊 Document embedding and semantic search (with Chroma)
 - 🔍 Context-aware responses
 
